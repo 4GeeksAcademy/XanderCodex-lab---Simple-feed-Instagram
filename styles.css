@@ -1,0 +1,41 @@
+body {
+    background-color: #EAEAEA;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+div.content {
+    width: 600px;
+    margin: auto;
+}
+
+.post {
+    background-color: white;
+    margin: 50px 0 50px 0;
+}
+
+.posttitle {
+    display: inline-block;
+    width: 80%;
+}
+
+.postdate {
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    color: #d8d8d8;
+}
+
+h1, h2, p {
+    margin: 0;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+}
